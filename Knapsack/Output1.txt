@@ -1,0 +1,6 @@
+Number of projects available: 4
+Available employee work weeks: 10
+Number of projects chosen: 2
+Total profit: 46
+Project0 6 30
+Project2 4 16
